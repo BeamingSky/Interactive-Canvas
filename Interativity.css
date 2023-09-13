@@ -1,0 +1,10 @@
+body {
+    overflow: hidden;
+    margin: 0%;
+    padding: 0%;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+canvas {
+    border: 1px solid black;
+}
